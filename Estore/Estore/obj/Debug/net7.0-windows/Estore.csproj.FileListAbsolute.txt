@@ -1,0 +1,62 @@
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.exe
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.deps.json
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.runtimeconfig.json
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.pdb
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddOrdersForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddProductsForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddSuppliersForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddUsersForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.LoginForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.MainForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.Properties.Resources.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.RegistrationForm.resources
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AssemblyInfo.cs
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.CopyComplete
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\refint\Estore.dll
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.pdb
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.genruntimeconfig.cache
+C:\Users\PC\Desktop\Estore\Estore\Estore\obj\Debug\net7.0-windows\ref\Estore.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.exe
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.deps.json
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.runtimeconfig.json
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\Estore.pdb
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 курс\Estore\Estore\Estore\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.AssemblyReference.cache
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddOrdersForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddProductsForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddSuppliersForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AddUsersForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.LoginForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.MainForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.Properties.Resources.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.RegistrationForm.resources
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.GenerateResource.cache
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AssemblyInfoInputs.cache
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.AssemblyInfo.cs
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.CoreCompileInputs.cache
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.csproj.Up2Date
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.dll
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\refint\Estore.dll
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.pdb
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\Estore.genruntimeconfig.cache
+D:\3 курс\Estore\Estore\Estore\obj\Debug\net7.0-windows\ref\Estore.dll

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\estore\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\addordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\addordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\estore\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\addusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\addusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\addproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\addproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\addsuppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\addsuppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|d:\\3 \u043A\u0443\u0440\u0441\\estore\\estore\\estore\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0159BA9E-C761-4790-9372-767CF55EE3CE}|Estore\\Estore.csproj|solutionrelative:estore\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winsik\\Desktop\\crystal\\Estore\\Estore\\AddInfoOrderForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductsForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddProductsForm.cs",
+              "RelativeDocumentMoniker": "Estore\\AddProductsForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddProductsForm.cs",
+              "RelativeToolTip": "Estore\\AddProductsForm.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwKUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:24:36.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUsersForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddUsersForm.cs",
+              "RelativeDocumentMoniker": "Estore\\AddUsersForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddUsersForm.cs",
+              "RelativeToolTip": "Estore\\AddUsersForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:14.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Estore\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\winsik\\Desktop\\crystal\\Estore\\Estore\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:47:21.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Estore\\LoginForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\LoginForm.cs",
+              "RelativeToolTip": "Estore\\LoginForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:38:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrdersForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddOrdersForm.cs",
+              "RelativeDocumentMoniker": "Estore\\AddOrdersForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddOrdersForm.cs",
+              "RelativeToolTip": "Estore\\AddOrdersForm.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAwwKkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:57:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\MainForm.cs",
+              "RelativeDocumentMoniker": "Estore\\MainForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\MainForm.cs",
+              "RelativeToolTip": "Estore\\MainForm.cs",
+              "ViewState": "AgIAAFoCAAAAAAAAAAAiwG8CAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:05:36.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\MainForm.cs",
+              "RelativeDocumentMoniker": "Estore\\MainForm.cs",
+              "ToolTip": "C:\\Users\\winsik\\Desktop\\crystal\\Estore\\Estore\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:21:37.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddInfoOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\winsik\\Desktop\\crystal\\Estore\\Estore\\AddInfoOrderForm.cs",
+              "ToolTip": "C:\\Users\\winsik\\Desktop\\crystal\\Estore\\Estore\\AddInfoOrderForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwL4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:27:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddSuppliersForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddSuppliersForm.cs",
+              "RelativeDocumentMoniker": "Estore\\AddSuppliersForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\AddSuppliersForm.cs",
+              "RelativeToolTip": "Estore\\AddSuppliersForm.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwHsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:55:39.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\Program.cs",
+              "RelativeDocumentMoniker": "Estore\\Program.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\Program.cs",
+              "RelativeToolTip": "Estore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:45:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Estore\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Estore\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwF4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:38:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "Estore\\RegistrationForm.Designer.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Estore\\Estore\\Estore\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "Estore\\RegistrationForm.Designer.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:35:09.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
